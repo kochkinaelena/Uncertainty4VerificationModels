@@ -37,6 +37,19 @@ https://www.dropbox.com/s/7ewzdrbelpmrnxu/rumdetect2017.zip?dl=0
 
 ## How to run
 
+1. Download the dataset(s)
+
+2. Change filepaths to the correct ones
+
+3. Run pre-processing
+
+4. Run the model with or without hyper-parameter optimisation
+
+`python model/outer.py`
+
+5. Run analysis on the output produced by the model
+
+
 
 
 If you have any questions feel free to contact me E.Kochkina@warwick.ac.uk 
