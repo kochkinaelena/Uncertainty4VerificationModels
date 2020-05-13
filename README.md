@@ -59,7 +59,7 @@ Then run:
 
 `model/analysis/analysis_fullPHEME.py` or `model/analysis/supervised_rejection_dev_fullPHEME.py`
 
-To run time analysis, pre-process the dataset to contain each partial tree using `model/preprocessing/preprocessing_with_partial_trees/prep_pipeline_with_partial_trees.py`. Then use `model/analysis/time_analysis.py`.
+6. To get predicitons for time analysis, pre-process the dataset to contain each partial tree using `model/preprocessing/preprocessing_with_partial_trees/prep_pipeline_with_partial_trees.py`. Then use `model/analysis/time_analysis.py`.
 
 
 If you have any questions feel free to contact me E.Kochkina@warwick.ac.uk 
