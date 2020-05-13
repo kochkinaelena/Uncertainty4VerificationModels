@@ -49,6 +49,8 @@ https://www.dropbox.com/s/7ewzdrbelpmrnxu/rumdetect2017.zip?dl=0
 
 Change `model/keras_lstm_outer.py` to either **(a)** load a set of hyper-parameters from existing `bestparams.txt` file or **(b)** to run  hyper-parameter optimisation using `parameter_search` function, set `ntrials` variable, a number of parameter combinations to be evaluated.
 
+There is also option to search over several feature sets as shown in `PHEME/model/keras_lstm_outer.py`. Also, preset options of feature sets in `generate_feature_set_list.py`.
+
 Then run:
 
 `python model/keras_lstm_outer.py`
