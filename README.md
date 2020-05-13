@@ -61,5 +61,8 @@ Then run:
 
 6. To get predicitons for time analysis, pre-process the dataset to contain each partial tree using `model/preprocessing/preprocessing_with_partial_trees/prep_pipeline_with_partial_trees.py`. Then use `model/analysis/time_analysis.py`.
 
+## Results of runs
+
+Results of runs with different hyper parameters can be downloaded here: 
 
 If you have any questions feel free to contact me E.Kochkina@warwick.ac.uk 
