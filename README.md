@@ -65,6 +65,7 @@ Then run:
 
 Results of runs with different hyper parameters can be downloaded here: 
 
+These files serve as input files for the analysis code
 
 ## Contact
 If you have any questions feel free to contact me E.Kochkina@warwick.ac.uk 
