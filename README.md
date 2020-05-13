@@ -37,19 +37,25 @@ https://www.dropbox.com/s/7ewzdrbelpmrnxu/rumdetect2017.zip?dl=0
 
 ## How to run
 
-1. Download the dataset(s)
+1. Download the dataset(s) above
 
-2. Change filepaths to the correct ones
+2. Set filepaths 
 
 3. Run pre-processing
 
+`model/preprocessing/prep_pipeline.py`
+
 4. Run the model (with or without hyper-parameter optimisation)
+
+Change `model/keras_lstm_outer.py` to either **(a)** load a set of hyper-parameters from existing `bestparams.txt` file or **(b)** to run  hyper-parameter optimisation using `parameter_search` function, set `ntrials` variable, a number of parameter combinations to be evaluated.
+
+Then run:
 
 `python model/keras_lstm_outer.py`
 
 5. Run analysis on the output produced by the model
 
-
+``
 
 
 If you have any questions feel free to contact me E.Kochkina@warwick.ac.uk 
