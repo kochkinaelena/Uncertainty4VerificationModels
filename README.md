@@ -1,6 +1,7 @@
-# Uncertainty4VerificationModels
+# Estimating predictive uncertainty for rumour verification models
+*Code for the experiments in the ACL 2020 paper "Estimating predictive uncertainty for rumour verification models"*
 
-*Documentation and more analysis code will be added*
+*Documentation and more analysis code is being added*
 
 ## Description of contents
 
