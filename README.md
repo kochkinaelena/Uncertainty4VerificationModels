@@ -20,9 +20,10 @@ Code to perform analysis of runs, such as supervised and unsupervised rejection 
 ## Requirements
 The code is using the follwoing packages:
 
-`numpy, sklearn, scipy, pickle, matplotlib, hyperopt, keras, tensorflow, nltk, gensim `
+`numpy, sklearn, scipy, pickle, matplotlib, nltk, gensim, hyperopt, keras, tensorflow`
 
 ## How to run
+
 
 
 If you have any questions feel free to contact me E.Kochkina@warwick.ac.uk 
