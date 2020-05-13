@@ -65,4 +65,6 @@ Then run:
 
 Results of runs with different hyper parameters can be downloaded here: 
 
+
+## Contact
 If you have any questions feel free to contact me E.Kochkina@warwick.ac.uk 
