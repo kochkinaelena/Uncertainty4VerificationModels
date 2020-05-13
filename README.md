@@ -2,7 +2,7 @@
 
 *Documentation and more analysis code will be added*
 
-Description of contents
+## Description of contents
 
 This repo contains 2 sub-folders: `PHEME` and `Twitter 15/16`. 
 
@@ -16,6 +16,9 @@ The `keras_lstm_outer.py` is the outer most file that pulls in functions from ot
 
 Code to perform analysis of runs, such as supervised and unsupervised rejection is stored in `analysis` folder. 
 
+## Requirements
+
+## How to run
 
 
 If you have any questions feel free to contact me E.Kochkina@warwick.ac.uk 
