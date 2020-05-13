@@ -18,6 +18,8 @@ The `keras_lstm_outer.py` is the outer most file that pulls in functions from ot
 Code to perform analysis of runs, such as supervised and unsupervised rejection is stored in `analysis` folder. 
 
 ## Requirements
+The code is using the follwoing packages:
+`numpy, sklearn, scipy, pickle, matplotlib, hyperopt, keras, tensorflow, nltk, gensim `
 
 ## How to run
 
