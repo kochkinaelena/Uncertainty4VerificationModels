@@ -18,9 +18,20 @@ The `keras_lstm_outer.py` is the outer most file that pulls in functions from ot
 Code to perform analysis of runs, such as supervised and unsupervised rejection is stored in `analysis` folder. 
 
 ## Requirements
-The code is using the follwoing packages:
 
+### Datasets
+**PHEME**
+https://figshare.com/articles/PHEME_dataset_for_Rumour_Detection_and_Veracity_Classification/6392078
+
+**Twitter 15 and Twitter 16**
+https://github.com/majingCUHK/Rumor_RvNN
+https://www.dropbox.com/s/7ewzdrbelpmrnxu/rumdetect2017.zip?dl=0
+
+
+### Python packages
 `numpy, sklearn, scipy, pickle, matplotlib, nltk, gensim, hyperopt, keras, tensorflow`
+
+
 
 ## How to run
 
