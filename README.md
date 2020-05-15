@@ -1,8 +1,6 @@
 # Estimating predictive uncertainty for rumour verification models
 *Code for the experiments in the ACL 2020 paper "Estimating predictive uncertainty for rumour verification models"*
 
-*Documentation and more analysis code is being added*
-
 ## Description of contents
 
 This repo contains 2 sub-folders: `PHEME` and `Twitter 15/16`. 
